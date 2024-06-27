@@ -22,8 +22,6 @@ jobs:
 
       - name: Set up Python
 
-        uses: actions/setup-python@v3
-
         uses: actions/setup-python@v4  # Updated to the latest version
 
         with:

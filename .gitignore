@@ -1,9 +1,8 @@
 # Compiled Python files
 *.pyc
-*.idea
 
-#Yaml workflow for github actions
-#*.github
+# Yaml workflow for GitHub Actions
+.github/workflows/*.yaml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -15,7 +14,6 @@ __pycache__/
 
 # PyCharm files
 .idea/
-__pycache__
 
 # Virtual environment
 venv/
